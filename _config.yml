@@ -1,4 +1,4 @@
-name: OverniteProduction
+name: Overnite Production
 favicon: null
 layout_spectrum: 0.88574
 typography_spectrum: 0.3537258659489453
@@ -24,6 +24,6 @@ color:
     - '#ba3c61'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
